@@ -5,3 +5,4 @@ Quick fix
 
 Feature within a branch
 Feature within the main branch
+Feature2 within the main branch
