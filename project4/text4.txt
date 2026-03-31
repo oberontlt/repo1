@@ -4,3 +4,4 @@ all is complete now
 Quick fix
 
 Feature within a branch
+Another Feature within a branch
