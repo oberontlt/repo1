@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 What????
 Quick fix
+=======
+What???? 
+Something incomlp
+>>>>>>> Stashed changes
